@@ -12,7 +12,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>World cup 2022</title>
     <link rel="shortcut icon" href="img/LOGO-QATAR-2022-4.jpg" type="image/x-icon" />
-    <link rel="stylesheet" href="assets/jugadores.css" />
+    <link rel="stylesheet" href="assets/pais.css" />
 </head>
 
 <body>
